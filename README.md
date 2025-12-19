@@ -2,8 +2,6 @@
 
 ### A full-stack developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tpd05&label=Profile views&color=0e75b6&style=flat" alt="tpd05" /> </p>
-
 - 🌱 I'm currently learning **Thai Nguyen University of Information and Communications Technology**
 
 - 📫 How to reach me **doantran28092005@gmail.com**
@@ -23,5 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tpd05&show_icons=true&locale=en" alt="tpd05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tpd05&" alt="tpd05" /></p>
 
