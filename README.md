@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tpd05&label=Profile views&color=0e75b6&style=flat" alt="tpd05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tpd05" alt="tpd05" /></a> </p>
-
 - 🌱 I'm currently learning **Thai Nguyen University of Information and Communications Technology**
 
 - 📫 How to reach me **doantran28092005@gmail.com**
