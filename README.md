@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7F00FF,100:00FFFF&height=220&section=header&text=TPD05&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7F00FF,100:00FFFF&height=220&section=header&text=TPD05&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Backend+Developer+%7C+Java+%7C+Spring+Boot;Full-Stack+Developer+%7C+React+%7C+Next.js;AI+%C3%97+Software+Engineering;Docker+%7C+Kubernetes+%7C+CI%2FCD;Building+systems%2C+not+just+features." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Backend+Developer+%7C+Java+%7C+Spring+Boot;Software+Engineer+%7C+System+Design;Full-Stack+Developer+%7C+React+%7C+Next.js;Docker+%7C+Kubernetes+%7C+CI%2FCD;Building+systems%2C+not+just+features" />
 
 <br>
 
@@ -17,14 +17,14 @@
 ```text
 ╔════════════════════════════════════════════════════════════════════╗
 ║                                                                    ║
-║   ████████╗██████╗ ██████╗  ██████╗ ███████╗                    ║
-║   ╚══██╔══╝██╔══██╗██╔══██╗██╔═══██╗██╔════╝                    ║
-║      ██║   ██████╔╝██║  ██║██║   ██║███████╗                    ║
-║      ██║   ██╔═══╝ ██║  ██║██║   ██║╚════██║                    ║
-║      ██║   ██║     ██████╔╝╚██████╔╝███████║                    ║
-║      ╚═╝   ╚═╝     ╚═════╝  ╚═════╝ ╚══════╝                    ║
+║           ████████╗██████╗ ██████╗  ██████╗ ███████╗               ║
+║           ╚══██╔══╝██╔══██╗██╔══██╗██╔═══██╗██╔════╝               ║
+║              ██║   ██████╔╝██║  ██║██║   ██║███████╗               ║
+║              ██║   ██╔═══╝ ██║  ██║██║   ██║╚════██║               ║
+║              ██║   ██║     ██████╔╝╚██████╔╝███████║               ║
+║              ╚═╝   ╚═╝     ╚═════╝  ╚═════╝ ╚══════╝               ║
 ║                                                                    ║
-║               WELCOME TO MY DIGITAL UNIVERSE                       ║
+║                    SOFTWARE ENGINEERING                            ║
 ║                                                                    ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
@@ -37,24 +37,24 @@
 public final class Developer {
 
     private final String username = "tpd05";
-    private final String role = "Software Engineer";
+    private final String role = "Backend Developer";
 
-    private final String[] interests = {
+    private final String[] focus = {
         "Backend Engineering",
-        "Artificial Intelligence",
         "Software Architecture",
-        "DevOps & Cloud",
-        "Developer Tools"
+        "System Design",
+        "DevOps & Infrastructure"
     };
 
     private final String currentMission =
-        "Building intelligent and scalable software systems.";
+        "Growing into a Software Engineer who builds reliable systems.";
 
     public void execute() {
-        learn();
-        build();
+        design();
+        develop();
         test();
         deploy();
+        improve();
         repeat();
     }
 }
@@ -69,10 +69,10 @@ public final class Developer {
 | SYSTEM                    |           STATUS           |
 | :------------------------ | :------------------------: |
 | `Backend Engineering`     | `██████████████████░░ 90%` |
-| `Full-Stack Development`  | `█████████████████░░░ 85%` |
+| `System Design`           | `█████████████████░░░ 85%` |
+| `Full-Stack Development`  | `████████████████░░░░ 80%` |
 | `Software Architecture`   | `███████████████░░░░░ 75%` |
-| `Artificial Intelligence` | `██████████████░░░░░░ 70%` |
-| `DevOps / Cloud`          | `████████████░░░░░░░░ 60%` |
+| `DevOps / Infrastructure` | `████████████░░░░░░░░ 60%` |
 
 </div>
 
@@ -84,7 +84,7 @@ public final class Developer {
 
 ### `LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,typescript,javascript&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,javascript&perline=6" />
 
 ### `BACKEND`
 
@@ -112,81 +112,110 @@ public final class Developer {
 
 # `02` // ENGINEERING DNA
 
+<div align="center">
+
 ```text
-                    ┌─────────────────────┐
-                    │   SOFTWARE SYSTEM   │
-                    └──────────┬──────────┘
-                               │
-          ┌────────────────────┼────────────────────┐
-          │                    │                    │
-          ▼                    ▼                    ▼
-    ┌───────────┐       ┌─────────────┐      ┌────────────┐
-    │  BACKEND  │       │     AI      │      │  DEVOPS    │
-    └─────┬─────┘       └──────┬──────┘      └─────┬──────┘
-          │                    │                    │
-          ▼                    ▼                    ▼
-    Spring Boot          LLM / AI              Docker
-    REST API             AI Agents             Kubernetes
-    JWT / RBAC           RAG                   CI/CD
-    MySQL                Automation             Cloud
-          │                    │                    │
-          └────────────────────┼────────────────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   PRODUCTION READY  │
-                    └─────────────────────┘
+┌────────────────────────────────────────────────────────────────────┐
+│                         SOFTWARE ENGINEER                          │
+├────────────────────────────────────────────────────────────────────┤
+│                                                                    │
+│  ┌──────────────────────┐  ┌──────────────────────┐  ┌───────────┐ │
+│  │ BACKEND ENGINEERING  │  │   SYSTEM DESIGN      │  │  DEVOPS   │ │
+│  ├──────────────────────┤  ├──────────────────────┤  ├───────────┤ │
+│  │ Spring Boot          │  │ Architecture         │  │ Docker    │ │
+│  │ REST API             │  │ Scalability          │  │ Kubernetes│ │
+│  │ Security             │  │ Reliability          │  │ CI/CD     │ │
+│  │ MySQL                │  │ Distributed Systems  │  │ Linux     │ │
+│  │ JWT / RBAC           │  │ Cloud                │  │           │ │
+│  └──────────────────────┘  └──────────────────────┘  └───────────┘ │
+│                                                                    │
+├────────────────────────────────────────────────────────────────────┤
+│                         PRODUCTION READY                           │
+└────────────────────────────────────────────────────────────────────┘
 ```
+
+</div>
+
+> Focused on building reliable, maintainable, scalable software systems — not just individual features.
 
 ---
 
-# `03` // AI × SOFTWARE ENGINEERING
+# `03` // SOFTWARE ENGINEERING
 
 <div align="center">
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
+│                    SOFTWARE LIFECYCLE                        │
+├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│              NATURAL LANGUAGE REQUIREMENT                    │
-│                           │                                  │
-│                           ▼                                  │
-│                         5W1H                                 │
-│                           │                                  │
-│                           ▼                                  │
-│                      USER STORY                              │
-│                           │                                  │
-│                           ▼                                  │
-│                       USE CASE                               │
-│                           │                                  │
-│                           ▼                                  │
-│                REQUIREMENT VALIDATION                        │
-│                           │                                  │
-│                           ▼                                  │
-│                 CANDIDATE ENTITIES                           │
-│                           │                                  │
-│                           ▼                                  │
-│                     DOMAIN MODEL                             │
-│                           │                                  │
-│                           ▼                                  │
-│                  SEQUENCE DIAGRAM                            │
-│                           │                                  │
-│                           ▼                                  │
-│                SOFTWARE ARCHITECTURE                         │
+│   				    REQUIREMENTS                           │
+│        					 │                                 │
+│        					 ▼                                 │
+│   				    SYSTEM DESIGN                          │
+│        					 │                                 │
+│        					 ▼                                 │
+│   					DOMAIN MODEL                           │
+│        					 │                                 │
+│        					 ▼                                 │
+│   					ARCHITECTURE                           │
+│        					 │                                 │
+│        					 ▼                                 │
+│   				   IMPLEMENTATION                          │
+│        					 │                                 │
+│        					 ▼                                 │
+│   					  TESTING                              │
+│        					 │                                 │
+│        					 ▼                                 │
+│   					  CI / CD                              │
+│        					 │                                 │
+│        					 ▼                                 │
+│   				    DEPLOYMENT                             │
+│        					 │                                 │
+│        					 ▼                                 │
+│   				MONITORING & IMPROVEMENT                   │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
-> Exploring how AI can transform natural-language requirements into structured software engineering artifacts.
+> Interested in the complete software engineering lifecycle — from requirements and system design to implementation, testing, deployment, and continuous improvement.
 
 ---
 
-# `04` // SECURITY FIRST
+# `04` // BACKEND ENGINEERING
+
+<div align="center">
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                     SECURITY LAYER                           │
+│                    BACKEND ENGINEERING                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Architecture       → Layered / Modular Architecture        │
+│  Framework          → Java / Spring Boot                    │
+│  API                → RESTful API                           │
+│  Security           → JWT / RBAC                            │
+│  Database           → MySQL / MongoDB                       │
+│  ORM                → JPA / Hibernate                       │
+│  Validation         → Request & Business Validation         │
+│  Testing            → Unit / Integration Testing            │
+│  Migration          → Flyway                                │
+│  Documentation      → API Documentation                     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `05` // SECURITY FIRST
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                     SECURITY LAYER                          │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  Authentication       → JWT / Session Management            │
@@ -201,51 +230,51 @@ public final class Developer {
 
 ---
 
-# `05` // DEVOPS PIPELINE
+# `06` // DEVOPS PIPELINE
 
 <div align="center">
 
 ```text
-          ┌────────────┐
-          │    CODE    │
-          └─────┬──────┘
-                │
-                ▼
-          ┌────────────┐
-          │    GIT     │
-          └─────┬──────┘
-                │
-                ▼
-       ┌─────────────────┐
-       │    CI / TEST    │
-       └────────┬────────┘
-                │
-                ▼
-       ┌─────────────────┐
-       │  BUILD IMAGE    │
-       └────────┬────────┘
-                │
-                ▼
-       ┌─────────────────┐
-       │ DOCKER REGISTRY │
-       └────────┬────────┘
-                │
-                ▼
-       ┌─────────────────┐
-       │   KUBERNETES    │
-       └────────┬────────┘
-                │
-                ▼
-          ┌────────────┐
-          │ PRODUCTION │
-          └────────────┘
+┌─────────────┐
+│     CODE    │
+└──────┬──────┘
+│
+▼
+┌─────────────┐
+│     GIT     │
+└──────┬──────┘
+│
+▼
+┌─────────────────┐
+│    CI / TEST    │
+└────────┬────────┘
+│
+▼
+┌─────────────────┐
+│  BUILD IMAGE    │
+└────────┬────────┘
+│
+▼
+┌─────────────────┐
+│ DOCKER REGISTRY │
+└────────┬────────┘
+│
+▼
+┌─────────────────┐
+│   KUBERNETES    │
+└────────┬────────┘
+│
+▼
+┌────────────┐
+│ PRODUCTION │
+└────────────┘
 ```
 
 </div>
 
 ---
 
-# `06` // GITHUB ANALYTICS
+# `07` // GITHUB ANALYTICS
 
 <div align="center">
 
@@ -265,7 +294,7 @@ public final class Developer {
 
 ---
 
-# `07` // CONTRIBUTION MATRIX
+# `08` // CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -275,7 +304,7 @@ public final class Developer {
 
 ---
 
-# `08` // CONTRIBUTION SNAKE
+# `09` // CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -285,20 +314,20 @@ public final class Developer {
 
 ---
 
-# `09` // CURRENTLY LEARNING
+# `10` // CURRENTLY LEARNING
 
 <div align="center">
 
 ```text
 ┌────────────────────────────────────────────────────┐
 │                                                    │
-│  [01] AWS / CLOUD ARCHITECTURE                     │
-│  [02] KUBERNETES                                   │
+│  [01] SYSTEM DESIGN                                │
+│  [02] SOFTWARE ARCHITECTURE                        │
 │  [03] MICROSERVICES                                │
 │  [04] DISTRIBUTED SYSTEMS                          │
-│  [05] LLM APPLICATION DEVELOPMENT                  │
-│  [06] AI AGENTS                                    │
-│  [07] SYSTEM DESIGN                                │
+│  [05] KUBERNETES                                   │
+│  [06] CLOUD ARCHITECTURE                           │
+│  [07] PERFORMANCE & SCALABILITY                    │
 │                                                    │
 └────────────────────────────────────────────────────┘
 ```
@@ -307,23 +336,52 @@ public final class Developer {
 
 ---
 
-# `10` // COLLABORATION PROTOCOL
+# `11` // ENGINEERING PRINCIPLES
+
+<div align="center">
 
 ```text
-OPEN FOR COLLABORATION
-
-> AI / ML
-> Backend Engineering
-> Full-Stack Applications
-> Developer Tools
-> Software Architecture
-> Open Source
-> Game Development
+┌─────────────────────────────────────────────────────────────┐
+│                  ENGINEERING PRINCIPLES                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  > Write maintainable code                                  │
+│  > Design before implementation                             │
+│  > Keep systems simple                                      │
+│  > Build for reliability                                    │
+│  > Test before production                                   │
+│  > Automate repetitive work                                 │
+│  > Understand the system, not just the framework            │
+│  > Continuously improve                                     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `11` // CONNECT
+# `12` // COLLABORATION PROTOCOL
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                  OPEN FOR COLLABORATION                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  > Backend Engineering                                      │
+│  > Full-Stack Applications                                  │
+│  > Software Architecture                                    │
+│  > System Design                                            │
+│  > DevOps / Cloud                                           │
+│  > Developer Tools                                          │
+│  > Open Source                                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `13` // CONNECT
 
 <div align="center">
 
@@ -331,7 +389,7 @@ OPEN FOR COLLABORATION
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
-<a href="mailto:doantran28092005@gmail.com">
+<a href="mailto:[doantran28092005@gmail.com](mailto:doantran28092005@gmail.com)">
 <img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
@@ -348,11 +406,12 @@ OPEN FOR COLLABORATION
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║       BUILD SYSTEMS.                                    ║
-║       BREAK LIMITS.                                     ║
-║       LEARN CONSTANTLY.                                 ║
+║       BUILD SYSTEMS.                                     ║
+║       UNDERSTAND ARCHITECTURE.                           ║
+║       ENGINEER FOR SCALE.                                ║
+║       LEARN CONSTANTLY.                                  ║
 ║                                                          ║
-║                  // SYSTEM ONLINE                       ║
+║                  // SYSTEM ONLINE                        ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
